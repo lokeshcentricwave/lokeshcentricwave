@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Centricwave LLP, specializing in software development for clients in the USA, UK, Canada, etc.<br>🌐 Visit our [Website](https://centricwave.com/) for more information<br>📫 Reach us: [Email Address](mailto:lokesh@centricwave.com)
+🌱 Centricwave LLP, specializing in software development for clients in the USA, UK, Canada, etc.<br>🌐 Visit our [Website](https://centricwave.com/) for more information<br>📫 Reach us: [lokesh@centricwave.com](mailto:lokesh@centricwave.com)
 
 
 ## 🌐 Socials:
